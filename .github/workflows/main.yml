@@ -1,0 +1,9 @@
+Fixing ZLT x21 5G UAE version Tr069  disconnected issue 
+Login  into zlt 21 5g router
+select ApN option set apn type auto
+now select multiple  apn name
+set Apn1 
+Apn name: tr069
+Apn: fmgmt
+Apn: ipv4
+once all proceeds done reboot your router and it will connect tr069
